@@ -1,0 +1,14 @@
+Window Object Model:
+             *It represents the browser window or tab is called BOM(browser Object model)
+             *It has properties of browser history,location and device's screen.
+             *It also represents a window/tab containing a DOM document.
+             *syntax for window object is 
+                     Window.open() to open a new tab
+
+ Document Object Model:-
+              *It represents the whole html document (HTML,HEAD,BODY and other HTML tags)
+              *When a web page is loaded the browser creates the DOM of page.
+              *Document object is property of window object that points to the DOM document loaded in that window.
+              *Syntax for DOM is 
+                      document.open() it creates a blank document within the window. 
+    

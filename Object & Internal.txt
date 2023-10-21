@@ -1,0 +1,39 @@
+Objects are important data types in java script.
+These Objects are differ from primitive data type.
+Primitive data types are Number,String,Boolean,null,Undefined and Symbol.
+The syntax for an example:
+new Object (value)
+Object(value) 
+let Object_name={
+    key_name:value;
+}
+Every Object has some property associated with some value.
+EX:-
+var my mobile=new Object();
+my mobile='Redmi';
+my mobile.model='Note 8';
+my mobile.Year='2020';
+my mobile.momory='16GB';
+
+The value inside the object can be accessed using keys.
+i.e 
+my mobile.Year
+
+Output:2020
+
+These values can be accessed using brackets notation also.
+my mobile[Year]
+
+Output:2020
+
+Syntax for adding a property to an Objects:
+      ObjectsName.Object Property=Property value;
+
+Syntax for deleting Property from an Object is;
+      Deleting ObjectName.ObjectProperty;
+      
+The Syntax to access a property from an Object is:
+      ObjectName.Property       
+           or
+      ObjectName["Property"]
+Property are the Values associated with a javascript Object.           

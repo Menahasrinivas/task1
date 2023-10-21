@@ -1,0 +1,15 @@
+http 1:
+1.It's the first usable version.It was created in 1997.
+It works on the textual format.
+It Transfer all the requests & responces in the plain text message form.
+It compress data by itself.
+It loads the request or resources on after the others.
+If one resource cannot be loaded it blocks all the other resources behind it.
+
+Http 2:
+It is the new version of HTTP called HTTP@.It was created in 2015
+It works on the binary protocol.
+It converts all the messages in binary format.
+It uses HPACK for data compression.
+HTTP2 use a single TCP connection.
+It send multiple stream of data at one data is block.
