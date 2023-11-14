@@ -11,4 +11,5 @@ Window Object Model:
               *Document object is property of window object that points to the DOM document loaded in that window.
               *Syntax for DOM is 
                       document.open() it creates a blank document within the window. 
+                    Thank You....
     
