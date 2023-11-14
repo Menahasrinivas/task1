@@ -8,6 +8,7 @@ let Object_name={
     key_name:value;
 }
 Every Object has some property associated with some value.
+
 EX:-
 var my mobile=new Object();
 my mobile='Redmi';
