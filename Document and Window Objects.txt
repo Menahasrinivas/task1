@@ -1,4 +1,5 @@
-Window Object Model:
+Window Object Model:-
+
              *It represents the browser window or tab is called BOM(browser Object model)
              *It has properties of browser history,location and device's screen.
              *It also represents a window/tab containing a DOM document.
